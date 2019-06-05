@@ -7,22 +7,13 @@ html { box-sizing: border-box;}
 
 .container {width: 900px; margin: 0 auto; padding: 0;}
 
-.main-menu {text-align: justify; width: 570px; margin: 0 auto; font-size: 14px; list-style: none; text-transform: uppercase;
-}
-.content-font {font-family: 'Playfair Display', serif;}
-    
-.container {
-        width: 900px;
-        margin: 0 auto;
-        padding: 0;
-     }
 .main-menu {
         text-align: justify;
-        width: 570px;
-        margin: 0 auto;
+        width: 570px; 
+        margin: 0 auto; 
         font-size: 14px;
         list-style: none;
-        text-transform: uppercase;
+        text-transform: uppercase; 
      }
     .main-menu ul{display: inline; margin:0; padding:0;}
     .main-menu ul li{display: inline;}
